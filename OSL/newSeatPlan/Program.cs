@@ -1,4 +1,4 @@
-﻿var listA = Enumerable.Range(1, 2).ToList();
+﻿var listA = Enumerable.Range(1, 20).ToList();
 var listB = Enumerable.Range(101, 20).ToList();
 
 listA.Reverse();
